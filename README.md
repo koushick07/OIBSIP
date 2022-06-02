@@ -8,3 +8,5 @@ TEMPERATURE CONVERTER:-  https://koushick07.github.io/OIBSIP/temp_converter/inde
 
 CALCULATOR:-  https://koushick07.github.io/OIBSIP/calculator/index.html
 
+TRIBUTE PAGE:-  https://koushick07.github.io/OIBSIP/tribute_page/index.html
+
